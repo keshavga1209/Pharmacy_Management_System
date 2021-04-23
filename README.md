@@ -56,6 +56,9 @@ git clone https://github.com/keshavga1209/Pharmacy_Management
 4. Open [localhost:3000](http://localhost:3000/) in the browser
 _NOTE: To run the Frontend side of the application it recommended to run the backend server too._
 
+## Database setup
+1. Create a new schema named 'pharmacy' using command 'use pharmacy' in MySQL CLI.
+2. Run script 'pharmacy.sql' in MySQL Workbench.
 
 ### Credits goes to these people:✨
 
