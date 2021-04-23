@@ -1,6 +1,6 @@
 # Pharmacy_Management_System
 Project for AMOC'21
-Pharmacy_Management
+Pharmacy_Management_system
 A system that stores data and enables functionality that organizes and maintains the customer, transactions and medications use process within pharmacies.
 ## Project overview
 https://drive.google.com/file/d/1iWR__IW6XKfTB1XZNDaYHq6qV317YctJ/view?usp=sharing
