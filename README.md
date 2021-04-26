@@ -4,7 +4,7 @@ Pharmacy_Management_system
 <br>
 A system that stores data and enables functionality that organizes and maintains the customer, transactions and medications use process within pharmacies.
 ## Project overview
-https://drive.google.com/file/d/1iWR__IW6XKfTB1XZNDaYHq6qV317YctJ/view?usp=sharing
+
 
 ## Tech Stack 🚀
 
