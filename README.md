@@ -64,6 +64,10 @@ _NOTE: To run the Frontend side of the application it recommended to run the bac
 
 ### Credits goes to these people:✨
 
+@Alok Prasad
+@Eshan Agarwal
+@Keshav Gautam
+
 <table>
 	<tr>
 		<td>
